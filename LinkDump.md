@@ -83,23 +83,19 @@
 [historical GIS immigration - Google Scholar](https://scholar.google.co.il/scholar?start=20&q=historical+GIS+immigration&hl=en&as_sdt=0,5&as_vis=1)
 
 (16-12-26 17:01) 
-* [OneTab](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html)
-* [qinwf/awesome-R: A curated list of awesome R packages, frameworks and software.](https://github.com/qinwf/awesome-R#html-widgets)
-* [sindresorhus/awesome: Curated list of awesome lists](https://github.com/sindresorhus/awesome#theory)
-* [Papers We Love](http://paperswelove.org/)
-* [OneTab import/export](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/import-export.html)
-* [Delimited Column Extractor – Text Mechanic™](http://textmechanic.com/text-tools/basic-text-tools/delimited-column-extractor/)
-* [Text Manipulation Online Made Easy](http://nimbletext.com/HowTo/ManipulateText)
-* [NimbleText Online Free](http://nimbletext.com/Live/1141802115/)
-* [LinkDump](file:///C:/users/lemuel~1/appdata/local/temp/82.html)
-* [אוניברסיטת תל אביב - למידה אקדמית ברשת](http://moodle.tau.ac.il/)
-* [Dynamic Properties](http://br.agritask.com/m/main/wicket/page?8)
-* [iMacros for Chrome - Chrome Web Store](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp?hl=en)
+
+[qinwf/awesome-R: A curated list of awesome R packages, frameworks and software.](https://github.com/qinwf/awesome-R#html-widgets)
+
+[Delimited Column Extractor – Text Mechanic™](http://textmechanic.com/text-tools/basic-text-tools/delimited-column-extractor/)
+
+[Text Manipulation Online Made Easy](http://nimbletext.com/HowTo/ManipulateText)
+
+[NimbleText Online Free](http://nimbletext.com/Live/1141802115/)
 
 [Zotero | Groups > Digital Humanities Topic Modeling > Library](https://www.zotero.org/groups/digital_humanities_topic_modeling/items)
 
-[Home - EASY](https://easy.dans.knaw.nl/ui/home)
 Academic dataset repository
+[Home - EASY](https://easy.dans.knaw.nl/ui/home)
 
 [mapping texts/texas](http://language.mappingtexts.org/)
 !This visualization plots the language patterns embedded in 232,567 pages of historical Texas newspapers, as they evolved over time and space.
@@ -111,4 +107,3 @@ Assessing Digitization Quality and dealing with noise, focused on historical new
 [How to Build a Text Mining, Machine Learning Document Classification System in R! - YouTube](https://www.youtube.com/watch?v=j1V2McKbkLo)
 
 [Speaker Videos | Topic Modeling](http://mith.umd.edu/topicmodeling/speaker-videos/)
-

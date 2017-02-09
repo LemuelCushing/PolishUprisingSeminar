@@ -1,17 +1,19 @@
-[Books](./Books.md)
+[Notes](./Notes.html)
 
-[Chronicling America Tutorials](./ChronAmericaTutorials.md)
+[Tutorials](./Tutorials.html)
 
-[Enviorment](./Env.md)
+[Books](./Books.html)
 
-[Link Dump](./LinkDump.md)
+[Chronicling America Tutorials](./ChronAmericaTutorials.html)
 
-[Notes](./Notes.md)
+[Environment](./Env.html)
 
-[Presentation ToC](./Presentation-TableOfContent.md)
+[Link Dump](./LinkDump.html)
 
-[Primary Sources](./PrimarySources.md)
+[Presentation ToC](./Presentation-TableOfContent.html)
 
-[ToDo](./ToDo.md)
+[Primary Sources](./PrimarySources.html)
 
-[To Sort](./ToSort.md)
+[ToDo](./ToDo.html)
+
+[To Sort](./ToSort.html)
