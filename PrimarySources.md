@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Primary Sources
 
 [Search · Digital Public Library of America](https://dp.la/search?language%5B%5D=English&subject=Poland--History--Revolution%2C+1863-1864)
@@ -11,4 +15,3 @@
 [Timeline · Digital Public Library of America](https://dp.la/timeline?&subject%5B%5D=Poland--History#/1863)
 
 [Newspapers.com - Historical Newspapers from 1700s-2000s](https://www.newspapers.com/)
-

@@ -1,9 +1,13 @@
+---
+layout: post
+---
+
 -----------------------------------------------------------
     Notes on Polish Uprising Seminar
 -----------------------------------------------------------
 13.12
 
-Reading Ferrie's 1994 paper on Immigrant Wealth Accumulation informs me of an extensive American census of immigrant ships between 1840 to 1870. 
+Reading Ferrie's 1994 paper on Immigrant Wealth Accumulation informs me of an extensive American census of immigrant ships between 1840 to 1870.
 Furthermore, the exact same method used in the article can be used to study the patterns of Polish immigrants after the '63 uprising, perhaps.
 
 Sites to check:
@@ -19,8 +23,8 @@ From Dr. Spitzer's lecture:
   17.12
   (16-12-17 18:51) Found http://www.polishmigration.org/ - A database of 19th century Polish immigration to the USA
 
-  Citation: 
-   A Polish chapter in Civil War America: the effects of the January insurrection on American opinion and diplomacy / Wieczerzak 
+  Citation:
+   A Polish chapter in Civil War America: the effects of the January insurrection on American opinion and diplomacy / Wieczerzak
 
    LERNER, H. (1961). THE QUESTION OF A POLISH LEGION AND POLISH IMMIGRATION DURING THE SECOND MEXICAN EMPIRE. The Polish Review, 6(3), 99-107. Retrieved from http://www.jstor.org/stable/25776361
 
@@ -41,10 +45,10 @@ From Dr. Spitzer's lecture:
   Kolinski, Dennis. “The Origin and Early Development of Polish Settlements in Central Wisconsin.” Polish American Studies, vol. 51, no. 1, 1994, pp. 21–48. www.jstor.org/stable/20148428.
 
 
-Found a journal dedicated to the study of Polish Americans - *Polish American Studies*. Might find more useful material there. 
+Found a journal dedicated to the study of Polish Americans - *Polish American Studies*. Might find more useful material there.
 http://www.jstor.org/journal/poliamerstud
 
-Discovered *Topicgraph* by JStor, a new topic modeling tool 
+Discovered *Topicgraph* by JStor, a new topic modeling tool
 https://jstor-labs.github.io/topicgraph/
 
 US GIS Census Tools: http://americanmigrations.uic.edu/censustools.htm
@@ -67,7 +71,7 @@ Links to APIs and documentation:  The Library makes available the digitized text
 
 The Library provides an OpenSearch API [1], with results returned in HTML, JSON, or Atom, at the researcher's discretion.  From the search results, the Library provides pointers to additional information for each result based upon a URI Template. [2]
 
-[1.] http://www.opensearch.org/Home  
+[1.] http://www.opensearch.org/Home
 
 [2.] http://bitworking.org/projects/URI-Templates/spec/draft-gregorio-uritemplate-03.txt
 
@@ -96,7 +100,7 @@ American Reactions to the Polish Insurrection of 1863
 Author(s): Joseph Wieczerzak
 Source: Polish American Studies, Vol. 22, No. 2 (Jul. - Dec., 1965), pp. 90-98
 
-> Much was added to the legacy over three decades before when, at the time of the Polish November Insurrection, a wave of Polonophilia swept over Jacksonian America; when hardly a day went by without some sympathetic mention of Poland in newspaper editorials; when banners for the Polish insurgents were dedicated in Boston, Polish dances were taught in New York dancing schools, a plethora of amateur verse on Polish themes found its way into print, and public protest meetings and collections were undertaken throughout the country. 
+> Much was added to the legacy over three decades before when, at the time of the Polish November Insurrection, a wave of Polonophilia swept over Jacksonian America; when hardly a day went by without some sympathetic mention of Poland in newspaper editorials; when banners for the Polish insurgents were dedicated in Boston, Polish dances were taught in New York dancing schools, a plethora of amateur verse on Polish themes found its way into print, and public protest meetings and collections were undertaken throughout the country.
 
 [Polish Archives in America](http://www.piasa.org/archivesinamericabs.html)
 
@@ -105,7 +109,7 @@ Source: Polish American Studies, Vol. 22, No. 2 (Jul. - Dec., 1965), pp. 90-98
 Brief History
 From its beginnings, Polish identity has been ingrained within the mission and activities of Polish Falcons of America.
 
-For hundreds of years, Poland was a major European economic, political powerhouse and the largest country in Europe. Seen as a threat to the neighboring authoritarian empires of Russia, Prussia and Austria, in the late 1700s Poland was invaded, its vast territory divided and its culture and language suppressed.  This foreign occupation was brutal, lasting over 120 years, and resulted in a series of unsuccessful insurrections against this foreign oppression. 
+For hundreds of years, Poland was a major European economic, political powerhouse and the largest country in Europe. Seen as a threat to the neighboring authoritarian empires of Russia, Prussia and Austria, in the late 1700s Poland was invaded, its vast territory divided and its culture and language suppressed.  This foreign occupation was brutal, lasting over 120 years, and resulted in a series of unsuccessful insurrections against this foreign oppression.
 
 The modern Falcon organization is a direct descendent of a similar organization established in Poland four years after the unsuccessful January Uprising of 1863 against Czarist Russia.   Devoted to physical fitness and physical education, the Polish Falcons adopted the Latin maxim "mens sana in corpore sano," or in Polish, “w Zdrowym Ciele, Zdrowy Duch" - "A Healthy Spirit in a Healthy Body." Such efforts were intended to “regenerate” the Polish nation through disciplined physical fitness, preparing the nation for eventual independence. In this spirit, the first Falcon Nest, or lodge, in the United States was organized by Felix L. Pietrowicz in Chicago, Ill. in 1887.   In 1912, the organization’s headquarters were moved to Pittsburgh, which is centrally located between the two largest centers of Polish-American communities, New York and Chicago.  These American Falcons adopted as their patron the Polish Patriot, Tadeusz Kosciuszko, who fought for both the independence of Poland and the United States.
 
@@ -128,17 +132,17 @@ https://archive.org/advancedsearch.php?q=january%20uprising
 ---
 
 Ideas for webpage design:
-  Create SVG outlines from portraits 
+  Create SVG outlines from portraits
    (Such as that of Kondratii Selivanov - which has nothing to do with my subject - as was shown by Ori in his Referat on the Skoptzy)
 
 Idea:
   Create an Internet Archive collection of related works
 
-  In general - create a sort of point of entry for further research and analysis of primary resources relating to the topic - 
+  In general - create a sort of point of entry for further research and analysis of primary resources relating to the topic -
       Preset quarries
       Collections
       ...?
-      Primary sources with added metadata and an extendible format for future cataloguing 
+      Primary sources with added metadata and an extendible format for future cataloguing
 
 ---
 
@@ -147,9 +151,9 @@ Idea:
 Newspapers, 'The imagined character' and religious sentiments
       + Propaganda!
 
-# The whites: 
+# The whites:
   The aristocratic Conservatives were centred in the Hotel Lambert in Paris with Prince Adam Czartoryski as their leader. They established a quasi-government-in-exile.
- 
+
 # The Reds:
   The Polish Radicals espoused democratic, republican and sometimes socialistic ideas. Their National Committee, established in Paris and later moved to Brussels, purported to represent the Polish nation, and had as its key figure the historian Joachim Lewelel
 
@@ -161,5 +165,3 @@ List of Polish Exiles English publications in the US
 ---
 
 How is 'the event' even named? <= This is a great question in and of itself!
- 
- 

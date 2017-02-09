@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 (15-12-26 22:39) 
 
 [About the Site and API « Chronicling America « Library of Congress](http://chroniclingamerica.loc.gov/about/api/)

@@ -5,6 +5,10 @@ layout: default
 <div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span></div>
 {{content}}
 
+<div class="links">
+    <a href="{{site.baseurl}}">Home</a>
+</div>
+
 <!-- Comments only for posts -->
 {% if page.path contains '_posts' %}
     {% if site.disqus-shortname %}

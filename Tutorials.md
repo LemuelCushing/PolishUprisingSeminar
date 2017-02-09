@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Tutorials
 
 [How to Build a Text Mining, Machine Learning Document Classification System in R! - YouTube](https://www.youtube.com/watch?v=j1V2McKbkLo)

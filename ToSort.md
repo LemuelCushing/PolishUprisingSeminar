@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # To Sort
 
 [Electronic Enlightenment — letters & lives online](http://www.e-enlightenment.com/)

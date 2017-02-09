@@ -33,4 +33,4 @@ exclude:
 - README.md
 
 
-gems: [jekyll-seo-tag, jekyll-paginate]
+gems: [jekyll-paginate-v2]

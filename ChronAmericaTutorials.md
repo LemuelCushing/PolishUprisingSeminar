@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## ChronAmerica Tutorials
 
 [Windows 8.1 - Create Modern Microfiche with the Chronicling America API](https://msdn.microsoft.com/en-us/magazine/dn519925.aspx )
