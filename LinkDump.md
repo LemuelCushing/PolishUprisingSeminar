@@ -98,12 +98,7 @@ Academic dataset repository
 [Home - EASY](https://easy.dans.knaw.nl/ui/home)
 
 [mapping texts/texas](http://language.mappingtexts.org/)
-!This visualization plots the language patterns embedded in 232,567 pages of historical Texas newspapers, as they evolved over time and space.
+**This visualization plots the language patterns embedded in 232,567 pages of historical Texas newspapers, as they evolved over time and space.**
 
 [Texas Newspaper Collection](http://mappingtexts.org/quality/)
 Assessing Digitization Quality and dealing with noise, focused on historical newspapers
-## Tutorials
-
-[How to Build a Text Mining, Machine Learning Document Classification System in R! - YouTube](https://www.youtube.com/watch?v=j1V2McKbkLo)
-
-[Speaker Videos | Topic Modeling](http://mith.umd.edu/topicmodeling/speaker-videos/)
