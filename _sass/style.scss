@@ -30,11 +30,13 @@ body {
 }
 
 #home {
-  background-image: url(../assets/wallpaper.png);
+  // content: "";
+// background: url(image.jpg);
+// opacity: 0.5;
+background: url(../assets/wallpaper.png);
  background-position: center center;
  background-size: percentage(1.01);
 }
-
 
 h1,
 h2,
@@ -60,10 +62,11 @@ h3 {
 
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: overline;
 
     &:hover {
         color: $text-color;
+        text-decoration: inherit line-through;
     }
 }
 
@@ -120,13 +123,14 @@ blockquote {
 }
 
 .headline {
-    font-size: 2em;
+    font-size: 3em;
     @include media-query($on-palm) {
         font-size: 2em;
     }
     position: static;
     margin-left: -80px;
-    text-shadow: 1px 1px 1px #E8E8E8, 3px 4px 5px #000;
+    // text-shadow: 0px -1px 2px #392626, 3px 4px 5px #000;
+    // text-shadow: 1px 1px 1px #E8E8E8, 3px 4px 5px #000;
     // text-shadow: 1px 1px 1px #E8E8E8, 3px 4px 5px #000;
     }
 
