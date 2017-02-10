@@ -4,7 +4,7 @@ permalink: /:path/
 ---
 
 <h3 class="headline">{{site.title}}</h3>
-<div style="background-color: #E8E8E8">
+<div style="background-color: #E8E8E8; border-radius:10px;">
 <ol>
 {% assign sorted_pages = (site.sections | sort ) %}
 {% for pg in sorted_pages %}
