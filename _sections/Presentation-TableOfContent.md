@@ -1,5 +1,6 @@
 ---
 layout: default
+title: presentation ToC
 ---
 
 Table of Content

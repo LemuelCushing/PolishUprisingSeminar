@@ -8,6 +8,13 @@ highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
+collections:
+ sections:
+    output: true
+    permalink: /projects/:path/
+ lists:
+    output: true
+    permalink: /projects/:path/
 
 # Comments
 # disqus-shortname: webjeda-demo
@@ -33,4 +40,4 @@ exclude:
 - README.md
 
 
-gems: [jekyll-paginate-v2]
+# gems: [jekyll-paginate-v2]

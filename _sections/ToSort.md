@@ -1,5 +1,6 @@
 ---
 layout: default
+title: To Sort
 ---
 
 # To Sort

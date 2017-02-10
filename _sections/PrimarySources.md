@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Primary Sources
 ---
 
 ## Primary Sources

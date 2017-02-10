@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Chronicling America Tutorials
 ---
 
 ## ChronAmerica Tutorials

@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<h1 class="headline">{{site.title}}</h1>
-{% for post in site.posts %}
-<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+<h3 class="headline">{{site.title}}</h3>
+<OL>
+<!-- {% assign sorted_pages = (site.pages | sort: 'title') %} -->
+{% for pg in site.sections %}
+<LI><a href="{{pg.url | prepend: site.baseurl}}">{{pg.title}}</a></LI>
 {% endfor %}
+</ol>
 
-
+<!--
 [Notes](./Notes.html)
 
 [Tutorials](./Tutorials.html)
@@ -26,4 +29,4 @@ layout: default
 
 [ToDo](./ToDo.html)
 
-[To Sort](./ToSort.html)
+[To Sort](./ToSort.html) -->
