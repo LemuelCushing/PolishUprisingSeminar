@@ -1,6 +1,6 @@
 ### Polish Uprising Seminar
 
-title: Polish Uprising Seminar
+title: The January Uprising
 baseurl: /PolishUprisingSeminar # name of the repository
 
 
@@ -11,10 +11,10 @@ markdown: kramdown
 collections:
  sections:
     output: true
-    permalink: /projects/:path/
+    permalink: /:path/
  lists:
     output: true
-    permalink: /projects/:path/
+    permalink: /:path/
 
 # Comments
 # disqus-shortname: webjeda-demo
