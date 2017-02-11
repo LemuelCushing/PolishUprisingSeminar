@@ -16,3 +16,5 @@ title: Primary Sources
 [Timeline · Digital Public Library of America](https://dp.la/timeline?&subject%5B%5D=Poland--History#/1863)
 
 [Newspapers.com - Historical Newspapers from 1700s-2000s](https://www.newspapers.com/)
+
+[Database of January insurgents](http://www.genealogia.okiem.pl/powstanies/)

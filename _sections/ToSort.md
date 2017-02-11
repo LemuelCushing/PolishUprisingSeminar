@@ -94,3 +94,5 @@ Irish Nationalist poem from 1834 (?) called "Poland", in which Ireland is synony
 
 ---
 Lerski, Jerzy J. (1996), Historical Dictionary of Poland, 966-1945, Westport, Connecticut: Greenwood Press.
+
+[1863: the pochvenniki want Polish independence for the empire’s sake | XIX век](https://xixvek.wordpress.com/2012/04/09/1863-the-pochvenniki-want-polish-independence-for-the-empires-sake/)
