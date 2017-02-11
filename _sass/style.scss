@@ -13,6 +13,9 @@ ol {
     list-style-type: armenian;
 }
 
+#list ol {
+    list-style-type: upper-roman;
+}
 body {
     max-width: $content-width;
     font-family: $base-font-family;
@@ -65,11 +68,20 @@ h3 {
 
 a {
     color: $brand-color;
-    text-decoration: overline;
+    text-decoration: underline;
+    transition: color cubic-bezier(0.6, -0.28, 0.74, 0.05) 1s 0s;
+    transition: box-shadow cubic-bezier(0.6, -0.28, 0.74, 0.05) 1500ms 0.5s;
+    transition: all ease 1s;
 
     &:hover {
-        color: $text-color;
-        text-decoration: inherit line-through;
+        color: aliceblue;
+        box-shadow: 7px 9px 0 0 lighten($text-color, 20%);
+        text-decoration: none;
+        background-color: darken($brand-color, 15%);
+        transition: background-color cubic-bezier(0.24, 0.99, 1, 1) 1s;
+        transition: color ease 1s;
+        // transition: box-shadow cubic-bezier(0, 1.57, 0.4, -0.03) 1s;
+        transition: all cubic-bezier(0, 1.57, 0.4, -0.03) 1s;
     }
 }
 
@@ -87,6 +99,28 @@ a {
         color: lighten($background-color, 50%);
         box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
     }
+}
+
+.lists a {
+    color: $text-color;
+    font-family: $section-font;
+    text-decoration: none;
+    background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
+    box-shadow: 20px -10px 0 0 lighten($brand-color, 10%);
+    -webkit-transition: box-shadow ease 1s;
+    // -moz-transition: box-shadow ease 1s;
+    // transition: box-shadow ease 1s;
+    transition-duration: 1s;
+
+    &:hover {
+        // color: lighten($background-color, 50%);
+        box-shadow: -8px 4px 0 0 lighten($brand-color, 10%);
+        transition-duration: 1s;
+    }
+}
+
+ol.lists li.lists {
+    list-style-type: khmer;
 }
 
 figure {

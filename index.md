@@ -11,7 +11,15 @@ permalink: /:path/
 <LI class="sections"><a class="subsection" href="{{pg.url | prepend: site.baseurl}}">{{pg.title}}</a></LI>
 {% endfor %}
 </ol>
+<br>
+<h3 style="margin-left:20px;">Lists</h3>
+<ol class="lists">
+{% for list in site.lists %}
+<li class="lists"><a class="subsection" href="{{list.url | prepend: site.baseurl}}">{{list.title}}</a></li>
+{% endfor %}
+</ol>
 </div>
+
 
 <!--
 [Notes](./Notes.html)
