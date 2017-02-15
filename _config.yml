@@ -38,6 +38,7 @@ sass:
 
 exclude:
 - README.md
+- /_sections/Summaries.md.backup
 
 
 # gems: [jekyll-paginate-v2]
