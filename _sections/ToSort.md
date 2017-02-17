@@ -7,7 +7,6 @@ title: To Sort
 
 [Electronic Enlightenment — letters & lives online](http://www.e-enlightenment.com/)
 
-
 [The CERL Portal : Manuscripts and Early Printed Material](http://cerl.epc.ub.uu.se/sportal/)
 
 [Willkommen bei EGO — EGO | European History Online — EGO](http://ieg-ego.eu/)

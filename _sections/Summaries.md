@@ -25,3 +25,15 @@ title: Summaries
 ###### Organizations
 - The Agricultural Society 
 - The National Central Committee (KCN) - and umbrella organization of mostly students, artists and public servants nationalists 
+
+
+---
+# Topic summary
+
+[quote from newspaper]
+whilsts the us was in the midsts of a civil war
+at the hight of the civil war, an event tool place
+
+perhaps start with the polish uprising, and then cross the ocean?
+
+Not a month after the Emancipation Proclimaton

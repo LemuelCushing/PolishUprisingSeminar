@@ -5,7 +5,7 @@ title: Reading List
 
 ## Reading List
 
-1. [1863 Uprising - Russia's Periphery](http://russiasperiphery.blogs.wm.edu/western-borderlands/poland/general/1863-uprising/)
+1. [~1863 Uprising - Russia's Periphery~](http://russiasperiphery.blogs.wm.edu/western-borderlands/poland/general/1863-uprising/)
 
 2. [1863: the pochvenniki want Polish independence for the empire’s sake - XIX век](https://xixvek.wordpress.com/2012/04/09/1863-the-pochvenniki-want-polish-independence-for-the-empires-sake/)
 
