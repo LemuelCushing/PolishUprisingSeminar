@@ -2,7 +2,7 @@
 
 title: The January Uprising
 baseurl: /PolishUprisingSeminar # name of the repository
-
+# repository: LemuelCushing/PolishUprisingSeminar
 
 highlighter: rouge
 markdown: kramdown
@@ -40,5 +40,5 @@ exclude:
 - README.md
 - /_sections/Summaries.md.backup
 
-
+# gems: ['jekyll-github-metadata']
 # gems: [jekyll-paginate-v2]
