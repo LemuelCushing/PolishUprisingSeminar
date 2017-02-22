@@ -1076,6 +1076,19 @@
         }
     },
     {
+        "type": "book",
+        "title": "A Diplomatic History of the American People",
+        "author": [{
+            "given": "T.A.",
+            "family": "Bailey"
+        }],
+        "collection-title": "Crofts American history series",
+        "URL": "https://books.google.co.il/books?id=-IoBAAAAMAAJ",
+        "year": "1955",
+        "publisher": "Appleton-Century-Crofts",
+        "id": "bailey1955diplomatic"
+    },
+    {
         "id": "coleman_what_1966-2",
         "type": "article-journal",
         "title": "What 1863 Means to American Friends of Poland",
