@@ -1076,17 +1076,21 @@
         }
     },
     {
+        "id": "bailey1955diplomatic",
         "type": "book",
         "title": "A Diplomatic History of the American People",
         "author": [{
             "given": "T.A.",
             "family": "Bailey"
         }],
-        "collection-title": "Crofts American history series",
+        "container-title": "Crofts American history series",
         "URL": "https://books.google.co.il/books?id=-IoBAAAAMAAJ",
-        "year": "1955",
-        "publisher": "Appleton-Century-Crofts",
-        "id": "bailey1955diplomatic"
+        "issued": {
+            "date-parts": [
+                [1955]
+            ]
+        },
+        "publisher": "Appleton-Century-Crofts"
     },
     {
         "id": "coleman_what_1966-2",

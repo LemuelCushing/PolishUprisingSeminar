@@ -19,7 +19,9 @@ collections:
 # Comments
 # disqus-shortname: webjeda-demo
 
-
+gems:
+  - jekyll-octicons
+  
 #optimization
 #compress.html
 compress_html:
