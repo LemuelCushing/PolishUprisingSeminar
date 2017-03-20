@@ -10,6 +10,7 @@ completed:
     - orlowski_henryk_1945
     - lerski_united_1973-1
     - uminski_two_1966-1
+    
 ---
 
 ## Reading List
@@ -17,6 +18,7 @@ completed:
 
 1. [Presidential Address: Roots and Links: Another Look at America's "Pre-Ethnic" Polish Exile Immigrants on JSTOR](https://www.jstor.org/stable/20148026?Search=yes&resultItemClick=true&searchText=1863&searchUri=%2Ftopic%2Fexile%2F%3FQuery%3D1863%26page%3D2%26amp%3D%26amp%3D%26topic%3Dexile&seq=1#page_scan_tab_contents)
 
+2. [The Bilateral Effect of the Visit of the Russian Fleet in 1863](http://www.loyno.edu/~history/journal/1983-4/delehaye.htm)
 
 # Complete
 
